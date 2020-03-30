@@ -1,4 +1,4 @@
-This is an alternative to the bottom piece for the Prusa Coivd-19 faceshield.
+This is an alternative to the bottom piece for the Prusa Covid-19 faceshield.
 
 This model is designed to allow you to use a standard office hole punch to cut the holes in the middle of the bottom of the transparent sheet.
 
